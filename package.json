@@ -1,0 +1,17 @@
+{
+  "name": "assignment_3",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r \"# DevOps Assignment 3\" \r =======\r # assignment_3_dev\r >>>>>>> 4b91a4ee9caf13dae9df3d1d92c97bd49439e539",
+  "main": "testfile.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jason": "^2.0.0",
+    "y": "^0.3.2"
+  },
+  "devDependencies": {}
+}
