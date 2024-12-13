@@ -13,5 +13,7 @@
     "jason": "^2.0.0",
     "y": "^0.3.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
